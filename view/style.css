@@ -1,3 +1,11 @@
+html {
+  font-family: 'Montserrat', sans-serif;
+}
+
+#headerLogo {
+  width: 30%;
+}
+
 body {
   width: 100%;
 }
