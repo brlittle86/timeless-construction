@@ -1,11 +1,16 @@
 html {
   font-family: 'Montserrat', sans-serif;
+  color: gainsboro;
 }
 
+header {
+  font-size: 35px;
+}
 #headerLogo {
-  width: 30%;
+  width: 20%;
 }
 
 body {
+  background-color: black;
   width: 100%;
 }
